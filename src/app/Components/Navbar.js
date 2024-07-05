@@ -11,7 +11,7 @@ function Navbar() {
       <div >
         <ul className={styles.nav}>
         <li className={styles.li}>
-            <Link href="/">INCIO</Link>
+            <Link href="/">INICIO</Link>
           </li>
           <li>
             <Link href="/About">ACERCA DE MI</Link>
