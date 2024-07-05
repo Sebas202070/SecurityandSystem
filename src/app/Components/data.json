@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+    "nombre":"Tenis",
+    "img":"/Tenis.jpg",
+    "descripcion":"Disfruto jugar con mis amigos los fines de semana a este hermoso deporte que es el tenis"
+},
+
+{   "id":"2",
+    "nombre":"Futbol",
+    "img":"/Futbol.jpg",
+    "descripcion":"Dos veces a la semana comparto con amigos del trabajo un partido de Futbol 5"
+},
+
+{   "id":"3",
+    "nombre":"Gym",
+    "img":"/Gym.jpg",
+    "descripcion":"Lunes, Miercoles y Viernes entreno 1 hora complementos y aerobico"
+}
+]
